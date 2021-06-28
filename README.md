@@ -5,7 +5,7 @@ Locally host Google Fonts' [Noto Sans SC](https://fonts.googleapis.com/css2?fami
 
 ## Usage
 
-1. Edit `SC.css`. Replace `https://cdn.jsdelivr.net/gh/magiclen/noto-sans-sc-woff2@2.0.0` to other path if needed.
+1. Edit `SC.css`. Replace `https://cdn.jsdelivr.net/gh/magiclen/noto-sans-sc-woff2@2.0.1` to other path if needed.
 
 2. In HTML `<head>` element, insert
 
